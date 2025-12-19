@@ -33,4 +33,8 @@ La API está en `/api/v1`:
     * Password: (dejar vacío)
 * **Web de prueba:** He hecho el `index.html` básico con JS nativo que pedía el enunciado. Está en `http://localhost:8080/index.html`. Si habéis cargado datos, saldrán ahí en una tabla.
 
+
 El código está separado por capas (Controller, Service, Repository) y uso DTOs para no exponer las entidades directamente, tal cual pedía la rúbrica.
+
+
+Video demostrando:https://www.youtube.com/watch?v=4UzYgdfMC2E
